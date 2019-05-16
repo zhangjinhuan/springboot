@@ -1,0 +1,11 @@
+2019-54-25 09:54:54===[main]==INFO  ==c.a.s.SpringBoot02QuickApplicationTests==Starting SpringBoot02QuickApplicationTests on daynew-PC with PID 5116 (started by daynew in D:\IdeaProjects\springboot\spring-boot-02-quick)
+2019-54-25 09:54:54===[main]==DEBUG ==c.a.s.SpringBoot02QuickApplicationTests==Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-54-25 09:54:54===[main]==INFO  ==c.a.s.SpringBoot02QuickApplicationTests==The following profiles are active: prod
+2019-54-25 09:54:58===[main]==INFO  ==o.s.scheduling.concurrent.ThreadPoolTaskExecutor==Initializing ExecutorService 'applicationTaskExecutor'
+2019-54-25 09:54:58===[main]==INFO  ==c.a.s.SpringBoot02QuickApplicationTests==Started SpringBoot02QuickApplicationTests in 5.241 seconds (JVM running for 7.26)
+2019-54-25 09:54:59===[main]==TRACE ==c.a.s.SpringBoot02QuickApplicationTests==这是trace
+2019-54-25 09:54:59===[main]==DEBUG ==c.a.s.SpringBoot02QuickApplicationTests==这是debug
+2019-54-25 09:54:59===[main]==INFO  ==c.a.s.SpringBoot02QuickApplicationTests==这是info
+2019-54-25 09:54:59===[main]==WARN  ==c.a.s.SpringBoot02QuickApplicationTests==这是warn
+2019-54-25 09:54:59===[main]==ERROR ==c.a.s.SpringBoot02QuickApplicationTests==这是error
+2019-54-25 09:54:59===[Thread-2]==INFO  ==o.s.scheduling.concurrent.ThreadPoolTaskExecutor==Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,52 @@
+server:
+  port: 8084
+spring:
+  profiles:
+    active: prod
+#指定使用den作为当前环境
+---
+#开发环境dev 8085
+server:
+  port: 8085
+spring:
+  profiles: dev
+
+---
+#生产环境prod 8086
+server:
+  port: 8086
+spring:
+  profiles: prod
+
+---
+#server:
+#  port: 8082
+#
+#zhang: jinhuan
+#
+#friends:
+#  name: zhangsan
+#  age: 18
+#
+#friends2: {lastName: lisi,age: 19}
+#
+#pets:
+#  - cat
+#  - dog
+#  - pig
+#
+#pets2: [cat,dog,pig]
+#
+#person:
+#  name: hello
+#  age: 18
+#  boss: false
+#  birthday: 2019/12/12
+#  maps: {k1: V1,k2: V2}
+#  lists: [zhangsan,lisi]
+#  lists2:
+#    - wangwu
+#    - zhouliu
+#  dog:
+#    name: xiaogou
+#    age: 2
