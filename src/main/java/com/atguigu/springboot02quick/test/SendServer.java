@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.Calendar;
-
+//file copy replication
 public class SendServer {
     public static void main(String[] args) {
         process();
