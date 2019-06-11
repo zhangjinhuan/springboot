@@ -52,6 +52,7 @@ public class SendServer {
                 if (oldPath.endsWith(File.separator)) {
                     temp = new File(oldPath + file[i]);
                 } else {
+
                     temp = new File(oldPath + File.separator + file[i]);
                 }
 
